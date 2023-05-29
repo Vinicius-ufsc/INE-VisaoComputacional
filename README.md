@@ -1,2 +1,3 @@
-# INE-VisaoComputacional
-INE410121-41000025DOME-20222-VisaoComputacional
+## <div align="center">INE - Visão Computacional</div> 
+
+![Git flow](https://github.com/Vinicius-ufsc/INE-VisaoComputacional/blob/main/Imagens/clothing_project.png?raw=true)
